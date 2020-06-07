@@ -11,7 +11,7 @@
 Em homenagem à semana Internacional do Meio Ambiente, o projeto tem o intuito de conectar pessoas com empresas que coletam resíduos específicos, como: Baterias, Lâmpadas, Pilhas, Óleo de cozinha, etc.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="https://raw.githubusercontent.com/Guilherme-Ferreira2107/Guilherme-Ferreira2107.github.io/master/home.JPG" width="350px" />
+    <img alt="Example" title="Example" src="https://github.com/Guilherme-Ferreira2107/NextLevelWeek_01/blob/master/server/uploads/layout.JPG?raw=true" width="350px" />
 </h1>
 
 
