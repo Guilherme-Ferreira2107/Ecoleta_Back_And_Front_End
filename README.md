@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Calculator OB" title="#Calculator OB" src="https://guilherme-ferreira2107.github.io/static/media/logoC.de23cd38.png" width="350px" />
+  <img alt="Calculator OB" title="#Calculator OB" src="https://github.com/Guilherme-Ferreira2107/NextLevelWeek_01/blob/master/server/uploads/nlw_dribbble.png" width="350px" />
 </h1>
 
 <h4 align="center"> 
