@@ -43,7 +43,7 @@ $ yarn dev
 ### Instalando Front-end
 
 ```bash
-$ git clone https://github.com/Guilherme-Ferreira2107/NextLevelWeeklevel-week/web
+$ git clone https://github.com/Guilherme-Ferreira2107/NextLevelWeek
 $ git NextLevelWeek/web
 $ yarn install
 $ yarn start
@@ -53,8 +53,8 @@ $ yarn start
 ### Instalando Mobile
 
 ```bash
-$ git clone https://github.com/Guilherme-Ferreira2107/NextLevelWeeklevel
-$ cd NextLevelWeek/mobile
+$ git clone https://github.com/Guilherme-Ferreira2107/NextLevelWeek
+$ cd NextLevelWeek/mo
 $ yarn install
 $ yarn start
 
