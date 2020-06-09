@@ -31,8 +31,8 @@ Desenvolvido com:
 ### Instalando Back-end
 
 ```bash
-$ git clone https://github.com/castelogui/next-level-week
-$ cd next-level-week/server
+$ git clone https://github.com/Guilherme-Ferreira2107/NextLevelWeek
+$ cd NextLevelWeek/server
 $ yarn install
 $ yarn knex:migrate
 $ yarn knex:seed
@@ -43,8 +43,8 @@ $ yarn dev
 ### Instalando Front-end
 
 ```bash
-$ git clone https://github.com/castelogui/next-level-week
-$ cd next-level-week/web
+$ git clone https://github.com/Guilherme-Ferreira2107/NextLevelWeeklevel-week/web
+$ git NextLevelWeek/web
 $ yarn install
 $ yarn start
 
@@ -53,8 +53,8 @@ $ yarn start
 ### Instalando Mobile
 
 ```bash
-$ git clone https://github.com/castelogui/next-level-week
-$ cd next-level-week/mobile
+$ git clone https://github.com/Guilherme-Ferreira2107/NextLevelWeeklevel
+$ cd NextLevelWeek/mobile
 $ yarn install
 $ yarn start
 
