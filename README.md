@@ -44,7 +44,7 @@ $ yarn dev
 
 ```bash
 $ git clone https://github.com/Guilherme-Ferreira2107/NextLevelWeek
-$ git NextLevelWeek/web
+$ cd NextLevelWeek/web
 $ yarn install
 $ yarn start
 
@@ -54,7 +54,7 @@ $ yarn start
 
 ```bash
 $ git clone https://github.com/Guilherme-Ferreira2107/NextLevelWeek
-$ cd NextLevelWeek/mo
+$ cd NextLevelWeek/mobile
 $ yarn install
 $ yarn start
 
