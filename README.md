@@ -33,10 +33,10 @@ Desenvolvido com:
 ```bash
 $ git clone https://github.com/Guilherme-Ferreira2107/NextLevelWeek
 $ cd NextLevelWeek/server
-$ yarn install
-$ yarn knex:migrate
-$ yarn knex:seed
-$ yarn dev
+$ npm install
+$ npm knex:migrate
+$ npm knex:seed
+$ npm run dev
 
 ```
 
@@ -45,8 +45,8 @@ $ yarn dev
 ```bash
 $ git clone https://github.com/Guilherme-Ferreira2107/NextLevelWeek
 $ cd NextLevelWeek/web
-$ yarn install
-$ yarn start
+$ npm install
+$ npm start
 
 ```
 
@@ -55,8 +55,8 @@ $ yarn start
 ```bash
 $ git clone https://github.com/Guilherme-Ferreira2107/NextLevelWeek
 $ cd NextLevelWeek/mobile
-$ yarn install
-$ yarn start
+$ npm install
+$ npm start
 
 # Use o app Expo em seu dispositivo móvel ou no emulador para rodar nosso app.
 
